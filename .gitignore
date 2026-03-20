@@ -1,1 +1,27 @@
-/MvcMovie
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# MacOS
+.DS_Store
+
+# Node.js (if you ever have npm packages)
+node_modules/
+
+# Logs
+*.log
+
+# Others
+*.tmp
+*.bak
+*.swp
